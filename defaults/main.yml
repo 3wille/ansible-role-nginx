@@ -52,4 +52,4 @@ nginx_upstreams: []
 #   }
 
 nginx_ppa_version: stable
-nginx_use_ppa: no
+nginx_use_ppa: false
